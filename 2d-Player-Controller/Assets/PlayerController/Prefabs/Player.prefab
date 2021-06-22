@@ -112,7 +112,7 @@ GameObject:
   m_Component:
   - component: {fileID: 274747786708286285}
   - component: {fileID: 274747786708286286}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: SlideCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -160,7 +160,7 @@ GameObject:
   - component: {fileID: 274747787175058949}
   - component: {fileID: 274747787175058951}
   - component: {fileID: 274747787175058950}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: AttackPoint
   m_TagString: Weapon
   m_Icon: {fileID: 0}
@@ -224,7 +224,7 @@ GameObject:
   - component: {fileID: 274747788012689906}
   - component: {fileID: 274747788012689905}
   - component: {fileID: 274747788012689904}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: FrontPosition
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -494,7 +494,7 @@ GameObject:
   - component: {fileID: 274747788500943250}
   - component: {fileID: 274747788500943249}
   - component: {fileID: 274747788500943248}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: FeetPosition
   m_TagString: Untagged
   m_Icon: {fileID: 0}
